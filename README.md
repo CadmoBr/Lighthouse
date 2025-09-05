@@ -80,5 +80,5 @@ pip install -r requirements.txt
 
 ---
 
-## 👨‍💻 Autor
+## 👨‍💻 Autor José Airton Silva Marques
 Projeto desenvolvido para o **Desafio LightHouse**.
